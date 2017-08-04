@@ -12,7 +12,7 @@ class Calc{
 			case value1: int d=a+b;
 						 System.out.println("Answer is:"+d);
 						 break;
-			case value2: int d=a-b;
+			case value2: int d=a+b;
 						 System.out.println("Answer is:"+d);
 						 break;
 			default:	 System.out.println("Please enter a valid option");
